@@ -4,8 +4,11 @@
 * James Hunter
 
 ## Location (and home)
-* London
+* London, UK
+
+## Occupation
+* Occupation?
 
 ---
 
-I've had the username since I was a child. I'm sorry.
+I've had the username since I was a child. I'm sorry. I'm so sorry.
