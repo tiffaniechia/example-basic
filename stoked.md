@@ -12,4 +12,4 @@
     *Stoked
 
   #Occupation
-    *Student at Makers Academy
+    *Student at Makers Academy (and I love it!)
