@@ -1,3 +1,5 @@
+## This is my introduction
+
 # Hello, I'm Hannah
 
 # Hometown
@@ -14,3 +16,6 @@
 
 # To amend a git commit message
 * git commit --amend
+
+# Moses supposes his toeses are roses
+* but Moses supposes erroneously
