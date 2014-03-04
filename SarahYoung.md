@@ -1,5 +1,5 @@
 # Hello, I'm Sarah
-I'm a student at Makers Academy
+I'm a student at Makers Academy.
 
 # Hometown
 	* Seattle, WA
