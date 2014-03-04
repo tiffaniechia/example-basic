@@ -1,10 +1,11 @@
-# Orite, I'm ROss
+# Orite, I'm Ross
+I am a student at Makers Academy
 
 # Fae Scotland
 * Glasgow
  * Voting No
 
-# Current City 
+# Current City
 * London, UK
 
 ## Favourite Meal
