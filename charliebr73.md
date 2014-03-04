@@ -1,6 +1,6 @@
 # This is an introductory file for the GitHub workshop.
 
-# Hello. My name is Charles
+# Hello. My name is Charles. 
 
 # Hometown
 * Niteroi, RJ
