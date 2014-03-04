@@ -9,7 +9,7 @@ I am a student at Makers Academy
 * London, UK
 
 ## Favourite Meal
-* Haggis Neaps and Tatties
+* Haggis Neaps and Tatties (Particularly on Burns night)
 
 ## Full name
 *James Ross Law Hepburn
