@@ -9,3 +9,6 @@
 
 # Favorite Restaurant
   * Black and Blue
+
+# Favorite Food
+  * Sushi
