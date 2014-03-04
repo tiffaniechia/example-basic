@@ -1,4 +1,4 @@
-About the author
+About the Author
 ================
 
 ## Name
@@ -6,3 +6,6 @@ About the author
 
 ## Age
 * 82
+
+## Location
+* London
