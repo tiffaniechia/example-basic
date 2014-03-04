@@ -10,3 +10,6 @@ I am a student at Makers Academy
 
 ## Favourite Meal
 * Haggis Neaps and Tatties
+
+## Full name
+*James Ross Law Hepburn
