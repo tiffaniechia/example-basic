@@ -9,3 +9,4 @@
 
 # Next Travel Destination
 * Amsterdam baby
+* Hostels all the way
