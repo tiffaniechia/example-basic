@@ -1,5 +1,5 @@
 # Hello, I'm Brent
-I am a GitHub Trainer and love teaching?
+I am a GitHub Trainer and love teaching.
 
 # Hometown
 * Springfield, IL
