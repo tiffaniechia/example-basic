@@ -1,8 +1,8 @@
 # The Quick Brown Fox
 
-# Lives in a shady wood
-* until the hunters flush him out
-  *and scare him away
+# Lived in a shady wood
+* until the hunters flushed him out
+  *and scared him away
   *so now he lives in London
   *and scares the hunter's children
 
