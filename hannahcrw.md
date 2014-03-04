@@ -11,3 +11,6 @@
 * See, told you
 
 # Trees
+
+# To amend a git commit message
+* git commit --amend
