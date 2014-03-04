@@ -1,5 +1,5 @@
 # Hello, I'm Khushkaran
-I'm a Maker @makersacademy
+I'm a Maker @makersacademy and I love coding!
 
 # Hometown
 * Derby, UK
