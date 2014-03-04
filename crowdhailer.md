@@ -7,3 +7,5 @@ I really like Branston Pickle
 ## Current City
  * London
 
+## Next City
+ * Basel
