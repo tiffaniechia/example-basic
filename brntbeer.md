@@ -12,5 +12,5 @@ I am a GitHub Trainer and love teaching.
 ## Favorite Restaurant
 * Dishoom
 
-# Next Travel Destination
+# Next Travel Destination (After returning to San Francisco)
 * Bangalore, India
