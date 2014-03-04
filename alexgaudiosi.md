@@ -13,3 +13,6 @@
 # Stuff
 
 	*Okay
+
+# Animals
+	* Octocats are okay too.
