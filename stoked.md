@@ -10,3 +10,6 @@
 
   #GitHub Username
     *Stoked
+
+  #Occupation
+    *Student at Makers Academy
