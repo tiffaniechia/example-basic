@@ -10,3 +10,6 @@
 
 ## Favourite restaurant
 * Abricotier
+
+# Next Travel Destination
+* Paris
