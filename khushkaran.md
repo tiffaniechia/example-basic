@@ -10,3 +10,6 @@ I'm a Maker @makersacademy and I love coding!
 
 ## Favourite Restaurant
 * Chipotle
+
+# Next employment
+* Developer
