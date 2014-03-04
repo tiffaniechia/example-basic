@@ -11,3 +11,6 @@ I'm a student at Makers Academy.
 
 ## Favorite Coffee spot
 	* Prufrock
+
+# Favorite food
+	* Spaghetti
