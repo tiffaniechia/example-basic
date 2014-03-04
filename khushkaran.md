@@ -12,4 +12,4 @@ I'm a Maker @makersacademy and I love coding!
 * Chipotle
 
 # Next employment
-* Developer
+* Developer (After graduating Makers Academy)
