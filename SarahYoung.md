@@ -13,4 +13,5 @@ I'm a student at Makers Academy.
 	* Prufrock
 
 # Favorite food
-	* Spaghetti
+	* Spaghetti (especially puttanesca)
+	* Homemade fro-yo
