@@ -8,4 +8,4 @@ student at makers academy!!
 * london, uk
 
 # leaving
-*mid may
+*mid may (will be leaving for milan)
