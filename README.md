@@ -8,4 +8,4 @@ This is an exercise by [Brent Beer](https://github.com/brntbeer) during his trai
 
 ##Technologies Used
 - Git
-- Command line
+- Command line 
